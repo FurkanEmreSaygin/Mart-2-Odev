@@ -1,3 +1,4 @@
+using Mart_2_Odev.Models;
 using Microsoft.AspNetCore.Mvc;
 namespace Mart_2_Odev.Controllers
 {
@@ -5,6 +6,7 @@ namespace Mart_2_Odev.Controllers
     {
         public IActionResult Index()
         {
+            var Seri = new Series();
             return View();
         }
 
