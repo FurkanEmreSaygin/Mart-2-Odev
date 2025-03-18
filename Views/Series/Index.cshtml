@@ -1,12 +1,14 @@
-@model Series
+@model List<Series>
 <!DOCTYPE html>
 <html>
 <head>
     <title>Series</title>
 </head>
 <body>
-    <p>@Model.Id</p>
-    <p>@Model.Name</p>
-    <p>@Model.Description</p>
+    @foreach (var series in Model)
+    {
+        <h2>@series.Name</h2>
+        <p>@series.Description</p>
+    }
 </body>
 </html>
