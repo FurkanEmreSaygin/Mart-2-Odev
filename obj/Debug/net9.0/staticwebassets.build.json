@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ffx+lbNmB3CF9oJ7uwAw55AhmQ5jAgJwKRmhoKBD96Q=",
+  "Hash": "KJNvA9j30KhlcLDcLTMWrjNt0COkUWSox+LW2pzw5Sw=",
   "Source": "Mart-2-Odev",
   "BasePath": "_content/Mart-2-Odev",
   "Mode": "Default",
@@ -1443,6 +1443,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\1.jpg",
+      "SourceId": "Mart-2-Odev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\",
+      "BasePath": "_content/Mart-2-Odev",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ub2jweyxm",
+      "Integrity": "aHuNRuwwKK5v20gcpvBz0YISVftYa+9+EKBSlPnuPh4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\2.jpg",
+      "SourceId": "Mart-2-Odev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\",
+      "BasePath": "_content/Mart-2-Odev",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ht6slp69jr",
+      "Integrity": "exVOPMz9OX73uAa1JuEYbwPU6GVGjomJl0Lv5dydJj8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\3.jpg",
+      "SourceId": "Mart-2-Odev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\",
+      "BasePath": "_content/Mart-2-Odev",
+      "RelativePath": "images/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3iihg9u3yu",
+      "Integrity": "6+v+IyfHXh5q+C3u2SKCAF6Krqdjj96qFOPPn5AMVks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\4.jpg",
+      "SourceId": "Mart-2-Odev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\",
+      "BasePath": "_content/Mart-2-Odev",
+      "RelativePath": "images/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4807jz0un5",
+      "Integrity": "HCS5WB/ceoL5hKMW8pf7gFWrEVGa6b7cLdkfXzJf+aQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\5.png",
+      "SourceId": "Mart-2-Odev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\",
+      "BasePath": "_content/Mart-2-Odev",
+      "RelativePath": "images/5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ewxeq09iu9",
+      "Integrity": "Hg2fLhZw87JgKZo9eK+dGHoQcEJYrptOJFRGUfBmZoc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5.png"
+    },
+    {
+      "Identity": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\Logo Head.png",
+      "SourceId": "Mart-2-Odev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\",
+      "BasePath": "_content/Mart-2-Odev",
+      "RelativePath": "images/Logo Head#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8y8r9xvatg",
+      "Integrity": "8FwYcUcdrVqvDvZaKWffadCY2IR+GsqI/2L+y8YAqxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Logo Head.png"
     },
     {
       "Identity": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\js\\site.js",
@@ -3320,6 +3446,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.0ub2jweyxm.jpg",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4309116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aHuNRuwwKK5v20gcpvBz0YISVftYa+9+EKBSlPnuPh4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:39:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ub2jweyxm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aHuNRuwwKK5v20gcpvBz0YISVftYa+9+EKBSlPnuPh4="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.jpg",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4309116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aHuNRuwwKK5v20gcpvBz0YISVftYa+9+EKBSlPnuPh4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:39:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aHuNRuwwKK5v20gcpvBz0YISVftYa+9+EKBSlPnuPh4="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.ht6slp69jr.jpg",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exVOPMz9OX73uAa1JuEYbwPU6GVGjomJl0Lv5dydJj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:40:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ht6slp69jr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-exVOPMz9OX73uAa1JuEYbwPU6GVGjomJl0Lv5dydJj8="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.jpg",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exVOPMz9OX73uAa1JuEYbwPU6GVGjomJl0Lv5dydJj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:40:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-exVOPMz9OX73uAa1JuEYbwPU6GVGjomJl0Lv5dydJj8="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.3iihg9u3yu.jpg",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2146907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+v+IyfHXh5q+C3u2SKCAF6Krqdjj96qFOPPn5AMVks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:40:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3iihg9u3yu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+v+IyfHXh5q+C3u2SKCAF6Krqdjj96qFOPPn5AMVks="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.jpg",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2146907"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+v+IyfHXh5q+C3u2SKCAF6Krqdjj96qFOPPn5AMVks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:40:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+v+IyfHXh5q+C3u2SKCAF6Krqdjj96qFOPPn5AMVks="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.4807jz0un5.jpg",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3071075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HCS5WB/ceoL5hKMW8pf7gFWrEVGa6b7cLdkfXzJf+aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:40:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4807jz0un5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HCS5WB/ceoL5hKMW8pf7gFWrEVGa6b7cLdkfXzJf+aQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.jpg",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3071075"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HCS5WB/ceoL5hKMW8pf7gFWrEVGa6b7cLdkfXzJf+aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 12:40:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HCS5WB/ceoL5hKMW8pf7gFWrEVGa6b7cLdkfXzJf+aQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.ewxeq09iu9.png",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hg2fLhZw87JgKZo9eK+dGHoQcEJYrptOJFRGUfBmZoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 14:23:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewxeq09iu9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hg2fLhZw87JgKZo9eK+dGHoQcEJYrptOJFRGUfBmZoc="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.png",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hg2fLhZw87JgKZo9eK+dGHoQcEJYrptOJFRGUfBmZoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 14:23:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hg2fLhZw87JgKZo9eK+dGHoQcEJYrptOJFRGUfBmZoc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Logo Head.8y8r9xvatg.png",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\Logo Head.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FwYcUcdrVqvDvZaKWffadCY2IR+GsqI/2L+y8YAqxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 17:20:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8y8r9xvatg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Logo Head.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FwYcUcdrVqvDvZaKWffadCY2IR+GsqI/2L+y8YAqxo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Logo Head.png",
+      "AssetFile": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\Logo Head.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FwYcUcdrVqvDvZaKWffadCY2IR+GsqI/2L+y8YAqxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 17:20:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FwYcUcdrVqvDvZaKWffadCY2IR+GsqI/2L+y8YAqxo="
         }
       ]
     },

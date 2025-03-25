@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\images\\Logo Head.png",
+      "PackagePath": "staticwebassets\\images\\Logo Head.png"
+    },
+    {
       "Id": "C:\\Users\\furky\\Desktop\\Kişisel Site\\Mart-2-Odev\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

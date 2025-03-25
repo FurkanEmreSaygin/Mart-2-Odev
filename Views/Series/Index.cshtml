@@ -1,14 +1,17 @@
-@model List<Series>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Series</title>
-</head>
 <body>
-    @foreach (var series in Model)
-    {
-        <h2>@series.Name</h2>
-        <p>@series.Description</p>
-    }
+    <div class=" container">
+        <div class="d-flex flex-row mb-3">
+        @foreach (var series in Model)
+        {    
+            <div class="card" style="width: 18rem;">
+                <img src="~/images/@series.Image" class="card-img-top" style="max-height: 380px ;" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@series.Name</h5>
+                    <p class="card-text">@series.Description</p>
+                    <a href="#" class="btn btn-primary" style="position: -ms-page;">Watch</a>
+                </div>
+            </div>
+        }
+        </div>
+    </div>
 </body>
-</html>
